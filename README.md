@@ -11,8 +11,7 @@ Site institucional responsivo para uma casa de repouso, desenvolvido com HTML5, 
 ## 👩‍💻 Desenvolvedora
 **Daniela Menezes**
 
-## 🌐 Visualizar
-[Acesse o site aqui](https://seuusuario.github.io/casa-de-repouso-viver-bem/)
+
 
 ## 📱 Funcionalidades
 - Design responsivo
